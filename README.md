@@ -1,2 +1,2 @@
 # Rent4u
-This is car rental project
+This is Car Rental Management System Project
